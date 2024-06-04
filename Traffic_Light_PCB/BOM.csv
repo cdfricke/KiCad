@@ -1,0 +1,8 @@
+Reference,Value,Datasheet,Qty/Board,MPN,
+"D3, D6, D9, D12",GREEN LED,https://downloads.cree-led.com/files/ds/h/HB-C503B-BCS-BCN-GCS-GCN.pdf,4,C503B-GCN-CY0C0791,
+"D2, D5, D8, D11",YELLOW LED,https://www.sunledusa.com/products/spec/XLUY34D.pdf,4,XLUY34D,
+"D1,D4, D7, D10",RED LED,https://www.kingbrightusa.com/images/catalog/SPEC/WP7113ID.pdf,4,WP7113ID,
+J1,7PIN-HEADER,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/937/Female_Headers.100_DS.pdf,1,PPTC071LFBN-RC,
+"R1,R2,R4,R5",100,https://www.digikey.com/en/products/detail/yageo/rc0603fr-07100rl/726888,4,RC0603FR-07100RL,
+"R3,R6",2k,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT2K00/1760249,2,RMCF0805FT2K00,
+U1,CMOD S7,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/783/Cmod_S7_RM_Web.pdf,1,410-376,
